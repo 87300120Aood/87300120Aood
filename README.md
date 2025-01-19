@@ -1,7 +1,7 @@
 -import requests
 import time
 
-base_url = "https://api all network/token"
+base_url = "https://api.allnetwork/token"
 headers = { "Authorization": "Bearer [YOUR_API_KEY]", "accept": "application/json" }
 
 def search_tokens(query, chain_id, limit=10, ignore_listed="false"):
