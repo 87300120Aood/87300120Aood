@@ -90,3 +90,23 @@ chat.html
 87300120Aood/87300120Aood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+access-control-allow-headers	*
+access-control-allow-methods	GET, POST, PATCH, DELETE, PUT, HEAD, OPTIONS
+access-control-allow-origin	*
+access-control-expose-headers	*
+cf-cache-status	BYPASS
+cf-ray	904902376b965ecc-PDX
+content-encoding	br
+content-length	113
+content-type	application/json; charset=utf-8
+date	Sun, 19 Jan 2025 18:50:08 GMT
+etag	W/"82-Dyxk6TPUWPzeaMWmTvnMFZpjHm0"
+render-cf-cache	private, max-age=0, no-transform
+rndr-id	0294d3ed-eb09-4d40
+server	cloudflare
+strict-transport-security	max-age=15552000
+vary	Accept-Encoding, Accept-Encoding
+x-content-type-options	nosniff
+x-firefox-spdy	h2
+x-powered-by	Express
+x-render-origin-server	cloudflare
