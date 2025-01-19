@@ -1,4 +1,6 @@
 -import requests
+-Kbancha
+-Kbancha90
 import time
 
 base_url = "https://api.allnetwork/token"
