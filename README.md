@@ -1,7 +1,7 @@
 -import requests
 import time
 
-base_url = "https://api.1inch.dev/token"
+base_url = "https://api all network/token"
 headers = { "Authorization": "Bearer [YOUR_API_KEY]", "accept": "application/json" }
 
 def search_tokens(query, chain_id, limit=10, ignore_listed="false"):
