@@ -1,5 +1,6 @@
--import requests
--autorun.insl_[sMlMPozznlhvRRKsbFbOHvSzoHcbkVAy4]
+#import requests
+#x.com
+#autorun.insl_[sMlMPozznlhvRRKsbFbOHvSzoHcbkVAy4]
 ⭐
 https://workspace.google.com/u/0/verify/domain/codes?origin=ac_home
 -Kbancha
